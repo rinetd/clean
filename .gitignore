@@ -1,0 +1,8 @@
+/dep/
+/build/
+/build.paho/
+*.swp
+*.pyc
+a.out
+.vscode
+.DStore

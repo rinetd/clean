@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding="utf-8"?>
+<Annotation>
+	<result filename="DaoXianYiWu0020" flag="True"/>
+		<size>
+			<width>1233</width>
+			<height>1233</height>
+			<depth>3</depth>
+		</size>
+		<object	name="diaoche">
+			<bndbox>
+				<xmin>1233</xmin>
+				<ymin>1233</ymin>
+				<xmax>3</xmax>
+				<ymax>3</ymax>
+			</bndbox>
+		</object>
+	</result>
+</Annotation>
